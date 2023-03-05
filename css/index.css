@@ -47,7 +47,7 @@ body {
   border-radius: 10px;
 }
 
-#main img{
+#main img {
   width: 564px;
   height: 596px;
 }
@@ -125,7 +125,6 @@ body {
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
   background: #8c82fc !important;
   color: #ffffff !important;
-
 }
 
 #platform .btn-4 {
@@ -136,7 +135,6 @@ body {
   border-radius: 6px;
   border: #000000;
   margin-top: 30px;
-
 }
 
 #platform .title-card {
@@ -153,7 +151,7 @@ body {
   margin-top: 10px;
 }
 
-#aboutus img{
+#aboutus img {
   width: 500px;
   height: 500px;
   margin-top: 30px;
@@ -168,7 +166,7 @@ body {
   padding: auto;
 }
 
-#aboutus .caption-about{
+#aboutus .caption-about {
   font-family: "manrope" sans-serif;
   font-weight: 600;
   font-size: 15px;
@@ -179,10 +177,9 @@ body {
 
 #comp {
   background: #f8f8ff;
-
 }
 
-#comp .gambars{
+#comp .gambars {
   justify-content: center;
   margin-bottom: 60px;
   margin-right: 20px;
@@ -190,3 +187,74 @@ body {
   align-items: center;
 }
 
+#alumni .title-alumni {
+  color: #8c82fc;
+  font-family: "manrope" sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+#alumni .ak {
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+#alumni .title-1 {
+  font-family: "manrope" sans-serif;
+}
+
+#alumni .caption-alumni {
+  font-family: "manrope" sans-serif;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+
+#alumni .card-img {
+  position: absolute;
+  top: -15%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height: 80px;
+  z-index: 2;
+  width: 80px;
+}
+
+#alumni .card {
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+  width: 220px;
+  border: 1px solid #8C82FC;
+  position: relative;
+}
+
+#alumni .card-content {
+  text-align: center;
+}
+
+#alumni .caption-alum {
+  color: #bab8d2;
+  font-family: "Poppins" sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#alumni .caption {
+  font-family: 'manrope' sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+#alumni .title {
+  font-family: 'manrope' sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 40px;
+}
